@@ -15,7 +15,7 @@ To get started you will need the following files/hardware to install this versio
 
 - Windows 10 Pro v1 x64 PRIME Z590-P Stock GPU iso: https://archive.org/details/win-10-pro-v-1-x-64-prime-z-590-p-stock-gpu-driver
 
-- ASUS PRIME Z590-P Motherboard with an Intel i7 10700KF 3.80GHz CPU intalled (this may work on other CPU(s) even w/out our recommendations)
+- ASUS PRIME Z590-P Motherboard
 
 - USB flash drive with at least 8GB of free space
 
