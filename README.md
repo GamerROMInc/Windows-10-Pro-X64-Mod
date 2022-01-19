@@ -44,3 +44,7 @@ Once its done turn off your PC, you can leave your USB plugged in, Once it's off
 
 
 This project was compiled by using NTLite witch you yourself can contribute to the project https://www.ntlite.com/ we are looking into other chipsets you can submit your request via our business email and we can work togehter to support other motherboards and chipsets.
+
+Business EMail: gamerrominc@gmail.com
+
+DCMA Notice: I am no form of way affhiliated with Microsoft nor it's partners, if i have broken any DCMA agreements and the owners wishes to remove this build from this repository, please consider politely emailing us to take the project down (proof of ownership required no exceptions) and i'll gladly take this project down.
