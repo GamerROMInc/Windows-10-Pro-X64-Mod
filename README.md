@@ -7,6 +7,7 @@ WARNING FROM THE DEVELOPER(S):
 The developer & microsoft takes no responsibilities for any damages this mod may do to either your software or hardware, you agree by downloading and installing this mod that you are fully held responsible for all damages that ouccured to your system by using this mod, though this may not happen, nothing is impossible. So please ensure you are aware on how to install windows and backup all sensitive files before installing this mod. USE AT YOUR OWN RISK!!!
 
 
+
 BEFORE YOU GET STARTED:
 
 To get started you will need the following files/hardware to install this version of Windows 10 Pro for the ASUS PRIME Z590-P/Z590 Motherboard/Chipset.
@@ -22,6 +23,7 @@ To get started you will need the following files/hardware to install this versio
 if you fail to meet the requirements the OS may still install but you may suffer unexpected issues (these changes will change in later updates).
 
 
+
 WHAT IS THIS & WHATS THE PURPOSE OF THIS?
 
 You just built your very own PC, or you upgraded to a Z590/Z590-P chipset (PRIME Z590-P/Z590 Motherboard) and you are lazy to install the latest drivers for your motherboard, well you don't have too, just install as normal and your done no need to look at the manufacture for drivers unless specified to do so. We do recommend to install the RST driver for your M.2 witch you can always check to see if any drivers are outdated here: https://www.asus.com/us/motherboards-components/motherboards/prime/prime-z590-p/HelpDesk_knowledge/
@@ -29,6 +31,7 @@ You just built your very own PC, or you upgraded to a Z590/Z590-P chipset (PRIME
 This build also includes the "UCMCLIENT" driver that microsoft cant find unless you use 3rd party driver installers, nither ASUS provides the driver for this built-in hardware component. This build also removes bloatware from installing and they cannot reinstall no matter what unless you manually choose too. This build includes the default basic media graphics driver they provide automatically and will install your GPU driver automatically.
 
 This build also includes additional info in Windows 10's about setting of yout chipset and tech support etc to make it easy for you to find support for your motherboard. This build is our version of a OEM OS for the ASUS Z590-P Motherboard
+
 
 
 HOW TO INSTALL:
